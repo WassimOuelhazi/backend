@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 11 Apr 2022 02:05:16 at https://eduadmin-template.multipurposethemes.com/bs4/main-semidark/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://eduadmin-template.multipurposethemes.com/bs4/main-semidark/index.html -O1 "C:\Users\Sarra\Desktop\wwwwwwwww\back" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:10:42	Error: 	"Not Found" (404) at link https://eduadmin-template.multipurposethemes.com/bs4/main-semidark/www.youtube.com/watch?v=sK7riqg2mr4 (from https://eduadmin-template.multipurposethemes.com/bs4/main-semidark/sample_lightbox.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 10 seconds : 694 links scanned, 692 files written (83309064 bytes overall) [66514272 bytes received at 179768 bytes/sec], 22546469 bytes transferred using HTTP compression in 346 files, ratio 24%, 38.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
