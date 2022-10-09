@@ -12,7 +12,7 @@ var path = require('path');
 var cors = require("cors")
 const {success,error} = require("consola")
 //var app = express();
- const port=3000;
+ const port=process.env.port || 3000;
  const DB= require("./Config/database")
 
 const { urlencoded } = require("express");
